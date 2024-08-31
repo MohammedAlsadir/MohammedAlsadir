@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MohammedAlsadir
+- 👀 I’m interested in cybersecurity and artificial intelligence.
+- 🌱 I’m currently learning more about AI applications in cybersecurity.
+- 💞️ I’m looking to collaborate on projects related to security and AI.
+- 📫 How to reach me: You can contact me via email at mr.sadir11@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-al-sadir-51979a218).
+- 🚀 I'm passionate about leveraging technology to help protect communities and contribute to a safer, more secure world.
